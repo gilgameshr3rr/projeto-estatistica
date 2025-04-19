@@ -1,10 +1,10 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
-
+- Larissa Dantas Alves Ferreira (202421250040) - larissa-ferreira.lf@academico.ifpb.edu.br  
+- Renata Morgana Galvíncio Silva (202421250044) - renata.galvincio@academico.ifpb.edu.br  
+- Ryan de oliveira sousa (202421250017) - ryan.sousa@academico.ifpb.edu.br
+ 
 ## 🎯 Tema e Motivação  
 Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
 Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
