@@ -33,7 +33,6 @@
   6. Qual distribuidora concentrou os jogos mais vendidos?
 
 ## 🔍 Metodologia  
-
 Neste projeto, será realizada uma análise estatística descritiva com foco em:
 
 1. **Análise Exploratória de Dados (EDA)**: verificação da estrutura dos dados, valores ausentes e outliers.
@@ -44,18 +43,17 @@ Neste projeto, será realizada uma análise estatística descritiva com foco em:
    - Gráficos de linha para evolução do número de lançamentos ao longo do tempo.
    - Boxplot: comparar a distribuição de vendas por plataforma ou por região.
 4. **Análise Regional**: comparações entre vendas nas regiões `na_sales`, `jp_sales`, `pal_sales` e `other_sales`.
-5. **Correlação (opcional)**: análise da relação entre `critic_score` e `total_sales` para investigar a influência da crítica nas vendas.
+5. **Correlação**: análise da relação entre `critic_score` e `total_sales` para investigar a influência da crítica nas vendas.
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas  
-
 O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
 
-- **Visual Studio Code (VS Code)** - editor principal para escrita e organização do código;
-- **Google Colab** - ambiente online para execução interativa do código Python;
-- **Python** - linguagem de programação utilizada para análise e manipulação de dados;
-- **Pandas** - biblioteca Python para tratamento, organização e análise estatística de dados tabulares;
+- **Visual Studio Code (VS Code)** - editor principal para escrita e organização do código.
+- **Google Colab** - ambiente online para execução interativa do código Python.
+- **Python** - linguagem de programação utilizada para análise e manipulação de dados.
+- **Pandas** - biblioteca Python para tratamento, organização e análise estatística de dados.
 - **Kaggle** - plataforma de onde foi obtido o conjunto de dados utilizado no projeto.
 - **GitHub** - para versionamento e organização do repositório do projeto.
 
