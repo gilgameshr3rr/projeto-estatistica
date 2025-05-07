@@ -1,26 +1,34 @@
 import pandas as pd
 
-# Testando
-caminho_arquivo = 'dados/vgchartz-2024.csv'
+# Lê o arquivo CSV
+df = pd.read_csv('dados/vgchartz-2024.csv')
 
-df = pd.read_csv(caminho_arquivo)
+# Número total de registros e variáveis
+num_linhas, num_colunas = df.shape
+print(f"Total de registros (linhas): {num_linhas}")
+print(f"Total de variáveis (colunas): {num_colunas}")
 
-try:
-    df = pd.read_csv(caminho_arquivo)
-    print("Visualizando as 5 primeiras linhas:")
-    print(df.head(5))
-except FileNotFoundError:
-    print(f"Arquivo '{caminho_arquivo}' não encontrado. Execute 'index.py' primeiro.")
+# Classificação de variáveis
+quantitativas = []
+qualitativas = []
 
+for coluna in df.columns:
+    if pd.api.types.is_numeric_dtype(df[coluna]):
+        quantitativas.append(coluna)
+    else:
+        qualitativas.append(coluna)
 
-# Acessando outros dados 
+print("\nVariáveis quantitativas:")
+print(quantitativas)
 
-print("Tamanho do dataset:")
-print(f"Linhas: {df.shape[0]}")
-print(f"Colunas: {df.shape[1]}")
+print("\nVariáveis qualitativas:")
+print(qualitativas)
 
-print("\nNomes das colunas:")
-print(df.columns)
+# Tabela resumo
+resumo = pd.DataFrame({
+    'Variável': quantitativas + qualitativas,
+    'Tipo': ['Quantitativa'] * len(quantitativas) + ['Qualitativa'] * len(qualitativas)
+})
 
-print("\nInformações gerais:")
-df.info()
+print("\nTabela resumo das variáveis:")
+print(resumo)
