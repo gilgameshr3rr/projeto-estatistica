@@ -33,12 +33,33 @@
   6. Qual distribuidora concentrou os jogos mais vendidos?
 
 ## 🔍 Metodologia  
-*A preencher na próxima etapa.*  
-Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
+
+Neste projeto, será realizada uma análise estatística descritiva com foco em:
+
+1. **Análise Exploratória de Dados (EDA)**: verificação da estrutura dos dados, valores ausentes e outliers.
+2. **Estatística Descritiva**: cálculo de média, moda, mediana e frequências para variáveis como `total_sales`, `genre`, `console`, `publisher` e `release_year`.
+3. **Visualização de Dados**:
+   - Gráficos de barras para comparar vendas por gênero, plataforma e região.
+   - Gráficos de pizza para distribuição percentual de gêneros ou plataformas.
+   - Gráficos de linha para evolução do número de lançamentos ao longo do tempo.
+   - Boxplot: comparar a distribuição de vendas por plataforma ou por região.
+4. **Análise Regional**: comparações entre vendas nas regiões `na_sales`, `jp_sales`, `pal_sales` e `other_sales`.
+5. **Correlação (opcional)**: análise da relação entre `critic_score` e `total_sales` para investigar a influência da crítica nas vendas.
+
+---
 
 ## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
-Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
+
+O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
+
+- **Visual Studio Code (VS Code)** - editor principal para escrita e organização do código;
+- **Google Colab** - ambiente online para execução interativa do código Python;
+- **Python** - linguagem de programação utilizada para análise e manipulação de dados;
+- **Pandas** - biblioteca Python para tratamento, organização e análise estatística de dados tabulares;
+- **Kaggle** - plataforma de onde foi obtido o conjunto de dados utilizado no projeto.
+- **GitHub** - para versionamento e organização do repositório do projeto.
+
+---
 
 ## 📈 Resultados  
 *A preencher após as análises.*  
