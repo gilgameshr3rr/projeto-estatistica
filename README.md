@@ -11,10 +11,10 @@
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  Nome do conjunto de dados: Video Game Sales 2024
+  Video Game Sales 2024
 
 - **Fonte:**  
-  Fonte: https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024/data?select=vgchartz-2024.csv
+  https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024/data?select=vgchartz-2024.csv
 
 - **Descrição breve:**  
   O conjunto de dados reúne informações sobre jogos lançados e vendidos até o ano de 2024. Cada linha representa um título, com variáveis como nome do jogo (`title`), plataform (`console`), gênero (`genre`), desenvolvedora (`developer`), distribuidora (`publisher`), data de lançamento (`release_date`), pontuação da crítica (`critic_score`) e vendas totais (`total_sales`) em milhões de unidades, além de colunas que discriminam o volume de vendas por região geográfica: América do Norte (`na_sales`), Japão (`jp_sales`), Europa (`pal_sales`), outros países (`other_sales`). 
