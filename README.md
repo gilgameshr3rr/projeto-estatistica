@@ -59,6 +59,11 @@ O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
 
 ---
 
+## 📊 Acesse o notebook no Google Colab:  
+[🔗 Clique aqui para abrir no Colab](https://colab.research.google.com/github/gilgameshr3rr/projeto-template-estatistica/blob/project-edition-larissa/analise.ipynb)
+
+---
+
 ## 📈 Resultados  
 *A preencher após as análises.*  
 Resumo visual e interpretativo dos principais achados.
