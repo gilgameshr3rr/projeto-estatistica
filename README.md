@@ -45,8 +45,6 @@ Neste projeto, será realizada uma análise estatística descritiva com foco em:
 4. **Análise Regional**: comparações entre vendas nas regiões `na_sales`, `jp_sales`, `pal_sales` e `other_sales`.
 5. **Correlação**: análise da relação entre `critic_score` e `total_sales` para investigar a influência da crítica nas vendas.
 
----
-
 ## 🛠️ Ferramentas Utilizadas  
 O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
 
@@ -57,12 +55,8 @@ O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
 - **Kaggle** - plataforma de onde foi obtido o conjunto de dados utilizado no projeto.
 - **GitHub** - para versionamento e organização do repositório do projeto.
 
----
-
 ## 📊 Acesse o notebook no Google Colab:  
 [🔗 Clique aqui para abrir no Colab](https://colab.research.google.com/github/gilgameshr3rr/projeto-template-estatistica/blob/project-edition-larissa/analise.ipynb)
-
----
 
 ## 📈 Resultados  
 *A preencher após as análises.*  
