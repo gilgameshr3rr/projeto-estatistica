@@ -25,12 +25,13 @@
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-  1. Quais são os jogos com maiores vendas globais até 2024?
-  2. Quais gêneros de jogos registraram maior média de vendas?
-  3. Quais consoles se destacaram em termos de volume total de vendas?
-  4. Existe diferença significativa entre as vendas nas principais regiões (América do Norte, Europa, Japão)?
-  5. Jogos com maiores notas da crítica apresentam também maiores vendas?
-  6. Qual distribuidora concentrou os jogos mais vendidos?
+  1. Como se distribuem as vendas globais entre os 100 jogos mais vendidos?
+  2. Quais gêneros de jogos, no conjunto completo do dataset, apresentam a maior média de vendas por jogo?
+  3. Quais consoles se destacaram em termos de volume total de vendas acumuladas?
+  4. Qual é o desvio padrão das vendas por região (América do Norte, Europa e Japão)?
+  5. Como se distribuem as notas da crítica entre os 100 jogos mais vendidos?
+  6. Quais distribuidoras concentram as maiores vendas entre os 100 jogos mais vendidos?
+=======
 
 ## 🔍 Metodologia  
 Neste projeto, será realizada uma análise estatística descritiva com foco em:
@@ -57,6 +58,9 @@ O projeto será desenvolvido com o uso das seguintes ferramentas e tecnologias:
 
 ## 📊 Acesse o notebook no Google Colab:  
 - **Atividade 2** [🔗 Clique aqui para abrir no Colab](https://colab.research.google.com/github/gilgameshr3rr/projeto-estatistica/blob/project-edition-larissa/atividade-02/analise.ipynb)
+
+- **Atividade 3** [🔗 Clique aqui para abrir no Colab](https://colab.research.google.com/github/gilgameshr3rr/projeto-estatistica/blob/project-edition-larissa/atividade-03/analise-03.ipynb)
+=======
 
 ## 📈 Resultados  
 *A preencher após as análises.*  
